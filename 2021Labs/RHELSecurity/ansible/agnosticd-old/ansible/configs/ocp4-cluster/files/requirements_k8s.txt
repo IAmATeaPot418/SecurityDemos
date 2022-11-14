@@ -6,7 +6,7 @@ cachetools==4.0.0
 certifi==2019.11.28
 cffi==1.13.2
 chardet==3.0.4
-cryptography==2.8
+cryptography==3.2
 dictdiffer==0.8.1
 distro==1.4.0
 google-auth==1.10.2
@@ -36,5 +36,5 @@ ruamel.yaml==0.16.6
 ruamel.yaml.clib==0.2.0
 selinux==0.2.1
 six==1.14.0
-urllib3==1.25.8
+urllib3==1.26.5
 websocket-client==0.57.0
